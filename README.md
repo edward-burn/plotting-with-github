@@ -7,3 +7,9 @@ This has code for showing the basics of ggplot. First, makes a kernel density pl
 
 2) "exploratory data analysis with ggplot.r"  
 This code goes into more detail on using ggplot to summarise data  
+
+3)  
+Plots for summarising regression models.  
+
+4) 
+Code for plotting the results for a cost-effectiveness analysis.    
